@@ -1,0 +1,18 @@
+/* 
+ * LESS Variables are defined with an @ character
+ * and can have different kinds of data types: 
+ *  color, string, boolean, multi-value
+ */
+header {
+  font-size: 24px;
+  color: #8e44ad;
+  border: 2px solid #000;
+  text-align: center;
+}
+.container {
+  padding: 15px 40px;
+}
+footer {
+  border: 2px solid #000;
+  text-align: center;
+}
